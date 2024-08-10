@@ -1,0 +1,5 @@
+train: path
+valid: path
+
+nc: 1
+classes: ["wajah"]
